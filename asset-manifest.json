@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.0dd11245.css",
-    "main.js": "/static/js/main.c786a4f1.js",
+    "main.css": "/static/css/main.97902d33.css",
+    "main.js": "/static/js/main.33fa2e26.js",
     "static/media/BrandonGrotesque-Regular.otf": "/static/media/BrandonGrotesque-Regular.922992580a2fc142eb9a.otf",
     "index.html": "/index.html",
-    "main.0dd11245.css.map": "/static/css/main.0dd11245.css.map",
-    "main.c786a4f1.js.map": "/static/js/main.c786a4f1.js.map"
+    "main.97902d33.css.map": "/static/css/main.97902d33.css.map",
+    "main.33fa2e26.js.map": "/static/js/main.33fa2e26.js.map"
   },
   "entrypoints": [
-    "static/css/main.0dd11245.css",
-    "static/js/main.c786a4f1.js"
+    "static/css/main.97902d33.css",
+    "static/js/main.33fa2e26.js"
   ]
 }
