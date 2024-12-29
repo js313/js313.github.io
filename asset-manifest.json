@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad1f4bdc.css",
+    "main.js": "/static/js/main.e709492e.js",
+    "static/media/BrandonGrotesque-Regular.otf": "/static/media/BrandonGrotesque-Regular.922992580a2fc142eb9a.otf",
+    "index.html": "/index.html",
+    "main.ad1f4bdc.css.map": "/static/css/main.ad1f4bdc.css.map",
+    "main.e709492e.js.map": "/static/js/main.e709492e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad1f4bdc.css",
+    "static/js/main.e709492e.js"
+  ]
+}
