@@ -20,7 +20,7 @@ const Home: React.FC = () => {
           className="flex items-center justify-center"
         >
           <img
-            src="/images/logo-options/image.png"
+            src="images/logo-options/image.png"
             alt="J"
             className="w-24 h-24 object-contain rounded-full"
           />
